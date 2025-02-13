@@ -64,8 +64,3 @@ Converts disparity to depth using:
 - **Robotics**: 3D environment understanding
 - **Augmented Reality**: Depth-based interactions
 
-## Contributors
-- **[Your Name]** (Replace with actual contributors)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
